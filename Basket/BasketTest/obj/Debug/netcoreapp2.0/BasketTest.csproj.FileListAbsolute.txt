@@ -1,0 +1,13 @@
+/Users/bassam/Documents/design-pattern-BassamBACHABI/Basket/BasketTest/bin/Debug/netcoreapp2.0/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/bassam/Documents/design-pattern-BassamBACHABI/Basket/BasketTest/bin/Debug/netcoreapp2.0/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/bassam/Documents/design-pattern-BassamBACHABI/Basket/BasketTest/bin/Debug/netcoreapp2.0/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/bassam/Documents/design-pattern-BassamBACHABI/Basket/BasketTest/bin/Debug/netcoreapp2.0/BasketTest.deps.json
+/Users/bassam/Documents/design-pattern-BassamBACHABI/Basket/BasketTest/bin/Debug/netcoreapp2.0/BasketTest.runtimeconfig.json
+/Users/bassam/Documents/design-pattern-BassamBACHABI/Basket/BasketTest/bin/Debug/netcoreapp2.0/BasketTest.runtimeconfig.dev.json
+/Users/bassam/Documents/design-pattern-BassamBACHABI/Basket/BasketTest/bin/Debug/netcoreapp2.0/BasketTest.dll
+/Users/bassam/Documents/design-pattern-BassamBACHABI/Basket/BasketTest/bin/Debug/netcoreapp2.0/BasketTest.pdb
+/Users/bassam/Documents/design-pattern-BassamBACHABI/Basket/BasketTest/obj/Debug/netcoreapp2.0/BasketTest.csproj.CoreCompileInputs.cache
+/Users/bassam/Documents/design-pattern-BassamBACHABI/Basket/BasketTest/obj/Debug/netcoreapp2.0/BasketTest.AssemblyInfoInputs.cache
+/Users/bassam/Documents/design-pattern-BassamBACHABI/Basket/BasketTest/obj/Debug/netcoreapp2.0/BasketTest.AssemblyInfo.cs
+/Users/bassam/Documents/design-pattern-BassamBACHABI/Basket/BasketTest/obj/Debug/netcoreapp2.0/BasketTest.dll
+/Users/bassam/Documents/design-pattern-BassamBACHABI/Basket/BasketTest/obj/Debug/netcoreapp2.0/BasketTest.pdb
