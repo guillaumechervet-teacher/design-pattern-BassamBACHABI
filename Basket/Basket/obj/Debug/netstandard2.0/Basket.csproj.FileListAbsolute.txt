@@ -1,0 +1,9 @@
+/Users/bassam/Documents/design-pattern-BassamBACHABI/Basket/Basket/bin/Debug/netstandard2.0/Basket.deps.json
+/Users/bassam/Documents/design-pattern-BassamBACHABI/Basket/Basket/bin/Debug/netstandard2.0/Basket.dll
+/Users/bassam/Documents/design-pattern-BassamBACHABI/Basket/Basket/bin/Debug/netstandard2.0/Basket.pdb
+/Users/bassam/Documents/design-pattern-BassamBACHABI/Basket/Basket/obj/Debug/netstandard2.0/Basket.csproj.CoreCompileInputs.cache
+/Users/bassam/Documents/design-pattern-BassamBACHABI/Basket/Basket/obj/Debug/netstandard2.0/Basket.AssemblyInfoInputs.cache
+/Users/bassam/Documents/design-pattern-BassamBACHABI/Basket/Basket/obj/Debug/netstandard2.0/Basket.AssemblyInfo.cs
+/Users/bassam/Documents/design-pattern-BassamBACHABI/Basket/Basket/obj/Debug/netstandard2.0/Basket.dll
+/Users/bassam/Documents/design-pattern-BassamBACHABI/Basket/Basket/obj/Debug/netstandard2.0/Basket.pdb
+/Users/bassam/Documents/design-pattern-BassamBACHABI/Basket/Basket/bin/Debug/netstandard2.0/article-database.json

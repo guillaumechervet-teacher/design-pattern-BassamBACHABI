@@ -11,3 +11,7 @@
 /Users/bassam/Documents/design-pattern-BassamBACHABI/Basket/BasketTest/obj/Debug/netcoreapp2.0/BasketTest.AssemblyInfo.cs
 /Users/bassam/Documents/design-pattern-BassamBACHABI/Basket/BasketTest/obj/Debug/netcoreapp2.0/BasketTest.dll
 /Users/bassam/Documents/design-pattern-BassamBACHABI/Basket/BasketTest/obj/Debug/netcoreapp2.0/BasketTest.pdb
+/Users/bassam/Documents/design-pattern-BassamBACHABI/Basket/BasketTest/bin/Debug/netcoreapp2.0/Basket.dll
+/Users/bassam/Documents/design-pattern-BassamBACHABI/Basket/BasketTest/bin/Debug/netcoreapp2.0/Basket.pdb
+/Users/bassam/Documents/design-pattern-BassamBACHABI/Basket/BasketTest/obj/Debug/netcoreapp2.0/BasketTest.csproj.CopyComplete
+/Users/bassam/Documents/design-pattern-BassamBACHABI/Basket/BasketTest/bin/Debug/netcoreapp2.0/article-database.json
