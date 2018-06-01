@@ -15,7 +15,16 @@ namespace Basket
             foreach (var basketLineArticle in basketLineArticles)
             {
                 var articleId = basketLineArticle.Id;
-                var article = ArticleDatabase(articleId);
+               // var article = ArticleDatabase(articleId);
+                
+                #if DEBUG
+                        var article = GetArticleDatabaseMock(basketLineArticle.Id);
+                                          
+                #else
+                        var article = GetArticleDatabase(basketLineArticle.Id);
+
+                #endif
+               
 
                 // Calculate amount
                 var amount = 0;
@@ -51,5 +60,27 @@ namespace Basket
                 articleDatabase.Id == articleId);
             return article;
         }
+        
+        public static ArticleDatabase GetArticleDatabaseMock(string id)
+        {
+            switch (id) {
+                case "1":
+                    return new ArticleDatabase {Id = "1", Price = 1, Stock =
+                        35, Label = "Banana", Category = "food"};
+                case "2":
+                    return new ArticleDatabase
+                    {
+                        Id = "2",
+                        Price = 500,
+                        Stock = 20,
+                        Label = "Fridge electrolux",
+                        Category = "electronic"
+                    }; case "3":
+                    return new ArticleDatabase {Id = "3", Price = 49, Stock =
+                        68, Label = "Chair", Category = "desktop"};
+                    
+                default:
+                    throw new NotImplementedException();
+            } }
     }
 }

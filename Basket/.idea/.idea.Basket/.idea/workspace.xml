@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3be6338a-defa-4385-a758-2b56ff203c6e" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Basket/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Basket/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Basket/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Basket/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basket/Basket.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Basket/Basket.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basket/ImperativeProgramming.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Basket/ImperativeProgramming.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Basket/bin/Debug/netstandard2.0/Basket.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Basket/bin/Debug/netstandard2.0/Basket.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Basket/bin/Debug/netstandard2.0/Basket.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Basket/bin/Debug/netstandard2.0/Basket.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basket/obj/Debug/netstandard2.0/Basket.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Basket/obj/Debug/netstandard2.0/Basket.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basket/obj/Debug/netstandard2.0/Basket.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Basket/obj/Debug/netstandard2.0/Basket.csproj.FileListAbsolute.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Basket/obj/Debug/netstandard2.0/Basket.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Basket/obj/Debug/netstandard2.0/Basket.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Basket/obj/Debug/netstandard2.0/Basket.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Basket/obj/Debug/netstandard2.0/Basket.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BasketTest/bin/Debug/netcoreapp2.0/Basket.dll" beforeDir="false" afterPath="$PROJECT_DIR$/BasketTest/bin/Debug/netcoreapp2.0/Basket.dll" afterDir="false" />
@@ -105,15 +102,22 @@
       <file leaf-file-name="ImperativeProgramming.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Basket/ImperativeProgramming.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="347">
-              <caret line="25" column="22" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
+            <state relative-caret-position="305">
+              <caret line="25" column="22" lean-forward="true" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
               <folding>
-                <marker date="1527861994549" expanded="true" signature="6:131" ph="..." />
-                <marker date="1527861994549" expanded="true" signature="149:1828" ph="{...}" />
-                <marker date="1527861994549" expanded="true" signature="190:1826" ph="{...}" />
-                <marker date="1527861994549" expanded="true" signature="289:1811" ph="{...}" />
-                <marker date="1527861994549" expanded="true" signature="398:1768" ph="{...}" />
-                <marker date="1527861994549" expanded="true" signature="1218:1687" ph="{...}" />
+                <marker date="1527863148538" expanded="true" signature="6:131" ph="..." />
+                <marker date="1527863148538" expanded="true" signature="149:3155" ph="{...}" />
+                <marker date="1527863148538" expanded="true" signature="190:3153" ph="{...}" />
+                <marker date="1527863148538" expanded="true" signature="289:1544" ph="{...}" />
+                <marker date="1527863148538" expanded="true" signature="398:1501" ph="{...}" />
+                <marker date="1527863148538" expanded="true" signature="429:528" ph="/* var articleId = basketLineArticle.Id; ... */" />
+                <marker date="1527863148538" expanded="true" signature="951:1420" ph="{...}" />
+                <marker date="1527863148538" expanded="true" signature="1618:2260" ph="{...}" />
+                <marker date="1527863148538" expanded="true" signature="2341:3147" ph="{...}" />
+                <marker date="1527863148538" expanded="true" signature="2376:3145" ph="{...}" />
+                <marker date="1527863148538" expanded="true" signature="2451:2545" ph="{...}" />
+                <marker date="1527863148538" expanded="true" signature="2640:2871" ph="{...}" />
+                <marker date="1527863148538" expanded="true" signature="2930:3027" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -232,12 +236,12 @@
       <option name="presentableId" value="Default" />
       <updated>1527752134374</updated>
       <workItem from="1527752136826" duration="3483000" />
-      <workItem from="1527856791379" duration="4766000" />
+      <workItem from="1527856791379" duration="6100000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8249000" />
+    <option name="totallyTimeSpent" value="9583000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -443,15 +447,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Basket/ImperativeProgramming.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="347">
-          <caret line="25" column="22" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
+        <state relative-caret-position="305">
+          <caret line="25" column="22" lean-forward="true" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
           <folding>
-            <marker date="1527861994549" expanded="true" signature="6:131" ph="..." />
-            <marker date="1527861994549" expanded="true" signature="149:1828" ph="{...}" />
-            <marker date="1527861994549" expanded="true" signature="190:1826" ph="{...}" />
-            <marker date="1527861994549" expanded="true" signature="289:1811" ph="{...}" />
-            <marker date="1527861994549" expanded="true" signature="398:1768" ph="{...}" />
-            <marker date="1527861994549" expanded="true" signature="1218:1687" ph="{...}" />
+            <marker date="1527863148538" expanded="true" signature="6:131" ph="..." />
+            <marker date="1527863148538" expanded="true" signature="149:3155" ph="{...}" />
+            <marker date="1527863148538" expanded="true" signature="190:3153" ph="{...}" />
+            <marker date="1527863148538" expanded="true" signature="289:1544" ph="{...}" />
+            <marker date="1527863148538" expanded="true" signature="398:1501" ph="{...}" />
+            <marker date="1527863148538" expanded="true" signature="429:528" ph="/* var articleId = basketLineArticle.Id; ... */" />
+            <marker date="1527863148538" expanded="true" signature="951:1420" ph="{...}" />
+            <marker date="1527863148538" expanded="true" signature="1618:2260" ph="{...}" />
+            <marker date="1527863148538" expanded="true" signature="2341:3147" ph="{...}" />
+            <marker date="1527863148538" expanded="true" signature="2376:3145" ph="{...}" />
+            <marker date="1527863148538" expanded="true" signature="2451:2545" ph="{...}" />
+            <marker date="1527863148538" expanded="true" signature="2640:2871" ph="{...}" />
+            <marker date="1527863148538" expanded="true" signature="2930:3027" ph="{...}" />
           </folding>
         </state>
       </provider>
