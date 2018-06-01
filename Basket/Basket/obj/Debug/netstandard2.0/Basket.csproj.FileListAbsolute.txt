@@ -7,3 +7,6 @@
 /Users/bassam/Documents/design-pattern-BassamBACHABI/Basket/Basket/obj/Debug/netstandard2.0/Basket.dll
 /Users/bassam/Documents/design-pattern-BassamBACHABI/Basket/Basket/obj/Debug/netstandard2.0/Basket.pdb
 /Users/bassam/Documents/design-pattern-BassamBACHABI/Basket/Basket/bin/Debug/netstandard2.0/article-database.json
+/Users/bassam/Documents/design-pattern-BassamBACHABI/Basket/Basket/bin/Debug/netstandard2.0/Newtonsoft.Json.dll
+/Users/bassam/Documents/design-pattern-BassamBACHABI/Basket/Basket/bin/Debug/netstandard2.0/Newtonsoft.Json.xml
+/Users/bassam/Documents/design-pattern-BassamBACHABI/Basket/Basket/obj/Debug/netstandard2.0/Basket.csproj.CopyComplete
